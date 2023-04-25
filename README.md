@@ -17,4 +17,4 @@ Here is orginal windows calculator and its replica for comparison:
 ![Orginal](images/orginal.jpg)
 ![Replica](images/replica.png)
 
-Can't say which is which, Right?
+Can't say which is which, Right? :face_with_raised_eyebrow:
