@@ -1,4 +1,4 @@
-# :calculator: Windows calculator replica (from wish!)
+# Windows calculator replica (from wish!)
 
 ## How to use:
 
