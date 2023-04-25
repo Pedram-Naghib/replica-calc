@@ -9,6 +9,7 @@ python run.py
 ```
 
 Here is orginal windows calculator and its replica for comparison:
+
 ![Orginal](images/orginal.jpg)
 ![Replica](images/replica.png)
 
