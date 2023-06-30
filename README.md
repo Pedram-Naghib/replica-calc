@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/Pedram-Naghib/replica-calc.git
-cd windows-calc-replica
+cd replica-calc
 python run.py
 ```
 
